@@ -13,7 +13,6 @@ public class ApretarBoton : MonoBehaviour {
 
 	private LlamarAscensor llamar;
 	private Animation animacionBoton;
-	private Animation subirAscensor;
 
 	// Use this for initialization
 	void Start () {//al iniciar el juego este metodo se ejecutara
@@ -25,6 +24,7 @@ public class ApretarBoton : MonoBehaviour {
 	void OnTriggerEnter(Collider otro)//al entrar en el trigger se ejecuta
 	{
 		animacionBoton.Play("apretarBoton");//inicia la animacion apretarboton
+
 
 	}
 

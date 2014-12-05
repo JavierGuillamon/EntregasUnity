@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\CogerLlave.cs" />
      <Compile Include="Assets\Scripts\Inventario.cs" />
      <Compile Include="Assets\Scripts\LlamarAscensor.cs" />
+     <Compile Include="Assets\Scripts\LlamarBajar.cs" />
      <Compile Include="Assets\Scripts\MoverAscensor.cs" />
      <Compile Include="Assets\Scripts\Puerta.cs" />
      <Compile Include="Assets\Scripts\Teletransporte.cs" />

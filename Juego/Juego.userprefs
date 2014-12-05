@@ -1,19 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Inventario.cs">
-    <Files>
-      <File FileName="Assets\Scripts\TeletransporteVuelta.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AbrirPuertaSecreta.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ApretarBoton.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BajarAscensor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CogerLlave.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Inventario.cs" Line="22" Column="1" />
-      <File FileName="Assets\Scripts\LlamarAscensor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MoverAscensor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Puerta.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Teletransporte.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

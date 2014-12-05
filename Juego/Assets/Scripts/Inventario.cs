@@ -5,7 +5,6 @@ public class Inventario : MonoBehaviour {
 
 	private bool boolLlave;//variable boolean boolLlave
 
-
 	void Start () {//al iniciar el juego se establece que boolLlave es falso
 		boolLlave = false;
 	}
